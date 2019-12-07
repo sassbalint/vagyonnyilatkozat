@@ -1,0 +1,30 @@
+{
+  "role": "képviselő",
+  "name": "Kovács Pisti",
+  "real estate": [
+    {
+      "address": "Budapest, II.",
+      "size": 100,
+      "ownership percent": 100,
+      "date from": "2004-09-01"
+    }
+  ],
+  "personal estate": [
+    {
+     "kind": "car",
+     "model": "Opel Zafira 1.4",
+     "date from": "2010-06-20"
+    }
+  ],
+  "securities": [
+    {
+      "name": "állampapír",
+      "value": 2000000
+    }
+  ],
+  "account money": [
+    {
+      "value": 500000
+    }
+  ]
+}
